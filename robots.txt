@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# LANZAMIENTO: reemplazar DOMINIO-FINAL.com
+Sitemap: https://DOMINIO-FINAL.com/sitemap.xml
