@@ -1,0 +1,24 @@
+# Adriana García · Realtor — robots.txt
+# Se permite el acceso a todos los buscadores y a los buscadores con IA.
+
+User-agent: *
+Allow: /
+
+# Buscadores con IA (permitidos de forma explícita)
+User-agent: Googlebot
+User-agent: Google-Extended
+User-agent: Bingbot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Applebot
+User-agent: Applebot-Extended
+Allow: /
+
+# LANZAMIENTO: reemplazar DOMINIO-FINAL.com
+Sitemap: https://DOMINIO-FINAL.com/sitemap.xml

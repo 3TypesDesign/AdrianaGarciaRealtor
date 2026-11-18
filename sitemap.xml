@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LANZAMIENTO: reemplazar DOMINIO-FINAL.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://DOMINIO-FINAL.com/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://DOMINIO-FINAL.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://DOMINIO-FINAL.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-FINAL.com/"/>
+  </url>
+  <url>
+    <loc>https://DOMINIO-FINAL.com/en/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-US" href="https://DOMINIO-FINAL.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://DOMINIO-FINAL.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://DOMINIO-FINAL.com/"/>
+  </url>
+</urlset>
